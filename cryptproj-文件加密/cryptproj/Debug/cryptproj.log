@@ -1,0 +1,18 @@
+﻿  tmain.c
+c:\users\afei\desktop\cryptproj-文件加密\cryptproj\tmain.c(224): warning C4013: “DesEnc_raw”未定义；假设外部返回 int
+c:\users\afei\desktop\cryptproj-文件加密\cryptproj\tmain.c(187): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\afei\desktop\cryptproj-文件加密\cryptproj\tmain.c(193): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\afei\desktop\cryptproj-文件加密\cryptproj\tmain.c(203): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\afei\desktop\cryptproj-文件加密\cryptproj\tmain.c(318): warning C4013: “DesDec_raw”未定义；假设外部返回 int
+c:\users\afei\desktop\cryptproj-文件加密\cryptproj\tmain.c(281): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\afei\desktop\cryptproj-文件加密\cryptproj\tmain.c(287): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\afei\desktop\cryptproj-文件加密\cryptproj\tmain.c(297): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  des.c
+  正在生成代码...
+  cryptproj.vcxproj -> C:\Users\afei\Desktop\cryptproj-文件加密\Debug\cryptproj.exe

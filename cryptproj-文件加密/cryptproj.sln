@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cryptproj", "cryptproj\cryptproj.vcxproj", "{EA74D500-65AD-4F3B-B98C-BE9B8FE83431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA74D500-65AD-4F3B-B98C-BE9B8FE83431}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA74D500-65AD-4F3B-B98C-BE9B8FE83431}.Debug|Win32.Build.0 = Debug|Win32
+		{EA74D500-65AD-4F3B-B98C-BE9B8FE83431}.Release|Win32.ActiveCfg = Release|Win32
+		{EA74D500-65AD-4F3B-B98C-BE9B8FE83431}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
